@@ -6,12 +6,11 @@
 # Submitted to Computational Material Science, 2022
 # For academic purposes only
 
-Created on Fri Jul 24 02:27:35 2020
-
 @author: imrul
 
 """
 
+#%% imports
 import cv2 as cv
 import glob
 import numpy as np
@@ -38,7 +37,7 @@ from Model import *
 
 initial_directory =os.getcwd()
 
-dataset_dir ='/d-CNN_PCG/Data/'
+dataset_dir ='/d-CNN_PCG/Data/' #Use the data directory
 
 list_file = ['New_300L_GN_2.0_6.0_25_225_trail_1','New_300L_GN_2.0_6.0_25_225_trail_2','New_300L_GN_2.0_6.0_25_225_trail_3','New_300L_GN_2.0_6.0_25_225_trail_4','New_300L_GN_2.0_6.0_25_225_trail_5','New_300L_GN_2.0_6.0_25_225_trail_6','New_300L_GN_2.0_6.0_25_225_trail_7','New_300L_GN_2.0_6.0_25_225_trail_8','New_300L_GN_2.0_6.0_25_225_trail_9','New_300L_GN_2.0_6.0_25_225_trail_10']
 
