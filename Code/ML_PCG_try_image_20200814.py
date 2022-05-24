@@ -1,8 +1,15 @@
-# -*- coding: utf-8 -*-
 """
+# A deep learning model for predicting mechanical properties of polycrystalline graphene
+# Authors : Md Imrul Reza Shishir, Mohan Surya Raja Elapolu, Alireza Tabarraei
+# Affliation : Multiscale Material Modelding Labratory, Department of Mechanical Engineering and Engineering Science, The University of North Carolina at Charlotte, Charlotte, NC 28223, USA
+# Corresponding Author : atabarra@uncc.edu , mshishir@uncc.edu
+# Submitted to Computational Material Science, 2022
+# For academic purposes only
+
 Created on Fri Jul 24 02:27:35 2020
 
 @author: imrul
+
 """
 
 import cv2 as cv
