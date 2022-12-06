@@ -1,5 +1,5 @@
 # d-CNN_PCG
-### A deep learning model for predicting mechanical properties of polycrystalline graphene
+### [A deep learning model for predicting mechanical properties of polycrystalline graphene](https://doi.org/10.1016/j.commatsci.2022.111924)
 
 Md Imrul Reza Shishir, Mohan Surya Raja Elapolu, Alireza Tabarraei
 
